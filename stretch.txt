@@ -1,0 +1,32 @@
+#A Merge Conflict Is: 
+    <> when you merge branches that have competing commits, 
+        and Git needs your help to decide which changes to incorporate in the final merge.
+
+
+#These Git Commands Do: 
+
+    <> Pull 
+        Is used to fetch and download content from a remote repository and immediately update the local repository to match that content. 
+
+    <> Rebase
+        Integrates changes from one branch into another. It is an alternative to the better known "merge" command. 
+
+    <> Merge
+        Git's way of putting a forked history back together again. 
+        The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch. 
+    
+    //  
+
+    <> Reset
+        A powerful command that is used to undo local changes to the state of a Git repo.
+
+    <> Revert
+        A forward-moving undo operation that offers a safe method of undoing changes. 
+        Instead of deleting or orphaning commits in the commit history, a revert will create a new commit that inverses the changes specified.
+
+    <> Clean
+        To some extent an 'undo' command. Git clean can be considered complementary to other commands like git reset and git checkout.
+
+#Set Up A Graphical User Interface (GUI) Git Console
+
+#Set Up SSH Keys With Github
